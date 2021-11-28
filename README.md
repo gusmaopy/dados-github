@@ -2,4 +2,4 @@
 Desafio de códigos para aulas da plataforma Digital Inovation One.
 
 ## Links úteis
-[Sintaxex Basics Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basic Markdown](https://www.markdownguide.org/basic-syntax/)
